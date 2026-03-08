@@ -1,4 +1,4 @@
-# Hello_Color_App
+# Hello Color App
 Flutter app that changes background color on tap.
 
 📖Features
