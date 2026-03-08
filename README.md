@@ -17,6 +17,8 @@ the app can generate 16,777,216 different colors.
 
 ## Run the project
 flutter pub get
+
+
 flutter run
 
 ## Notes
