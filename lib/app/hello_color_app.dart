@@ -20,5 +20,5 @@ class HelloColorApp extends StatelessWidget {
       ),
       home: const ColorScreen(),
     );
-  } 
+  }
 }

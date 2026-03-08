@@ -44,9 +44,7 @@ class _ColorScreenState extends State<ColorScreen> {
         width: double.infinity,
         height: double.infinity,
         color: currentBackground,
-        child: Center(
-          child: HelloText(color: primaryColor),
-        ),
+        child: Center(child: HelloText(color: primaryColor)),
       ),
     );
   }
