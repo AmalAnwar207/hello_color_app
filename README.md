@@ -12,7 +12,7 @@ when the user taps anywhere on the screen.
 
 ## How it works
 The application generates a random RGB value using Dart's `Random` class.
-Since RGB supports 256 × 256 × 256 combinations, 
+Since RGB supports 256 × 256 × 256 combinations,   
 the app can generate 16,777,216 different colors.
 
 ## Run the project
