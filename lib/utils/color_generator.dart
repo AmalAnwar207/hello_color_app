@@ -8,7 +8,7 @@ class ColorGenerator {
 
   final Random _random;
 
-  /// Creates a [ColorGenerator] with an optional [Random] instance.
+  /// Creates a ColorGenerator with an optional Random instance.
   ColorGenerator({Random? random}) : _random = random ?? Random();
 
   /// Returns a random opaque color using full RGB range (0x000000–0xFFFFFF).
